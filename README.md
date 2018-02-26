@@ -1,5 +1,5 @@
-# 06 Agenda
-Introduction to Databases
+# 06 Introduction to Databases
+
 
 
 
