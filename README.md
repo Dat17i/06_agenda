@@ -1,2 +1,5 @@
-# 06_agenda
-Databases introduction 27/2-2018
+# 06 Agenda
+Introduction to Databases
+
+
+
